@@ -1,3 +1,0 @@
-# MD
-
-Simple MD file
